@@ -4,4 +4,8 @@ add test
 add test2
 merge test
 changed
+<<<<<<< HEAD
 A
+=======
+B
+>>>>>>> B
