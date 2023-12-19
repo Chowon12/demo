@@ -6,3 +6,4 @@ merge test
 changed
 A
 B
+fsdfdf
