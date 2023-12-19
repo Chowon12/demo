@@ -8,4 +8,8 @@ A
 B
 fsdfdf
 merge test2
+<<<<<<< HEAD
 main branch
+=======
+feature/1219_2
+>>>>>>> feature/1219_2
