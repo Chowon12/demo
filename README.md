@@ -9,7 +9,13 @@ B
 fsdfdf
 merge test2
 <<<<<<< HEAD
+<<<<<<< HEAD
 main branch
 =======
 feature/1219_2
 >>>>>>> feature/1219_2
+=======
+main branch
+feature/1219_2
+merge B A
+>>>>>>> b_mergefile
