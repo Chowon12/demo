@@ -7,3 +7,4 @@ changed
 A
 B
 fsdfdf
+merge test2
